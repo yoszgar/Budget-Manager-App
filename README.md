@@ -1,4 +1,7 @@
-# Budget Manager (Release 1)
+# Budget Manager
+
+## AI Disclosure
+I used Claude (Anthropic) as a coding assistant. It drafted the initial project structure, the first version of the tests, the sample data and the first drafts of the documentation, and it helped with `uv` setup and the GitHub push. I read every file, ran all the commands (including invalid inputs) and the tests myself. I can explain each module and the design choices. Full details are in [AI_DISCLOSURE.md].
 
 A command-line personal budget manager: add, list, summarize, import and back up transactions.
 
